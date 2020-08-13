@@ -1,0 +1,11 @@
+{
+  "name": "ConfigTemplates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rollup/plugin-typescript": "^5.0.2",
+    "rollup": "^2.23.1",
+    "typescript": "^3.9.7"
+  }
+}
